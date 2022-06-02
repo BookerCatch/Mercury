@@ -1,1 +1,3 @@
-/Raw.xlsx
+*.xlsx
+*.txt
+.idea/
